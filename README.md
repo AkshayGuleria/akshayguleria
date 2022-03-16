@@ -1,8 +1,9 @@
-### Hi there 👋
-
+<p align="center">
+   <img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+</p>
 
 ```javascript
-const akshay_guleria = {
+const akshayGuleria = {
     pronouns: "He" | "Him",
     askMeAbout: ["full stack dev", "automate every repeated task", "learner for life"],
     technologies:{
@@ -10,9 +11,11 @@ const akshay_guleria = {
         fronEnd: ["angular", "react"],
         integrations: ["jms mq", "restapi", "xmlrpc", "jsonrpc", "kafka", "openapi", "graphql", "jsonapi"],
         database: ["progress openedge rdbms", "oracle"],
-        devOps: ["Ansible", "Jenkins", "Docker"],
-        misc: ["Shell script"]
-    }
+        devOps: ["ansible", "jenkins", "docker"],
+        misc: ["shell script", "yaml", "json", "xml"]
+    },
+    devMethodologies: ["agile", "scrum", "tdd"],
+    freeTime: ["cricket", "football", "xbox", "gym"],
 }
 ```
 <!--
