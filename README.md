@@ -2,6 +2,8 @@
    <img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 </p>
 
+[My profile and repositories info](https://resume.github.io/?akshayguleria)
+
 ```javascript
 const akshayGuleria = {
     pronouns: "He" | "Him",
@@ -16,9 +18,11 @@ const akshayGuleria = {
     },
     devMethodologies: ["agile", "scrum", "tdd"],
     freeTime: ["cricket", "football", "xbox", "gym"],
-    profile: "https://resume.github.io/?akshayguleria",
 }
 ```
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshayguleria&hide=["stars"]&show_icons=true)
+
 <!--
 **AkshayGuleria/akshayguleria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
