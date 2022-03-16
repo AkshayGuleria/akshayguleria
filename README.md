@@ -16,6 +16,7 @@ const akshayGuleria = {
     },
     devMethodologies: ["agile", "scrum", "tdd"],
     freeTime: ["cricket", "football", "xbox", "gym"],
+    profile: "https://resume.github.io/?akshayguleria",
 }
 ```
 <!--
