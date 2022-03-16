@@ -8,11 +8,11 @@ const akshayGuleria = {
     askMeAbout: ["full stack dev", "automate every repeated task", "learner for life"],
     technologies:{
         backEnd: ["progress openedge abl", "nestjs", "python+django", "ruby"],
-        fronEnd: ["angular", "react"],
+        fronEnd: ["angular", "react", "webspeed"],
         integrations: ["jms mq", "restapi", "xmlrpc", "jsonrpc", "kafka", "openapi", "graphql", "jsonapi"],
         database: ["progress openedge rdbms", "oracle"],
         devOps: ["ansible", "jenkins", "docker"],
-        misc: ["shell script", "yaml", "json", "xml"]
+        misc: ["shell script", "yarn", "npm", "yaml", "json", "xml"]
     },
     devMethodologies: ["agile", "scrum", "tdd"],
     freeTime: ["cricket", "football", "xbox", "gym"],
