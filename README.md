@@ -14,6 +14,7 @@ const akshayGuleria = {
         integrations: ["jms mq", "restapi", "xmlrpc", "jsonrpc", "kafka", "openapi", "graphql", "jsonapi"],
         database: ["progress openedge rdbms", "oracle"],
         devOps: ["ansible", "jenkins", "docker"],
+        domains: ["telecom bss", "billing & ar", "travel"]
         misc: ["shell script", "yarn", "npm", "yaml", "json", "xml"]
     },
     devMethodologies: ["agile", "scrum", "tdd"],
