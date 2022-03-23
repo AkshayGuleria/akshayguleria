@@ -12,7 +12,7 @@ const akshayGuleria = {
         backEnd: ["progress openedge abl", "nestjs", "python+django", "ruby"],
         fronEnd: ["angular", "react", "webspeed"],
         integrations: ["jms mq", "restapi", "xmlrpc", "jsonrpc", "kafka", "openapi", "graphql", "jsonapi"],
-        database: ["progress openedge rdbms", "oracle", "redis"],
+        database: ["progress openedge rdbms", "sql dbs", "redis"],
         devOps: ["ansible", "jenkins", "docker"],
         misc: ["shell script", "yarn", "npm", "yaml", "json", "xml"]
     },
